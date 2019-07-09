@@ -1,0 +1,18 @@
+{
+  "Tox": {
+    "Name": "Party",
+    "Status": "...",
+    "File": "save.tox"
+  },
+  "Irc": [
+    {
+      "Nick": "ToxParty",
+      "User": "ToxParty",
+      "Name": "GNU Tox Party - https://gitlab.com/juancolacelli/toxparty",
+      "Server": "irc.freenode.net:6697",
+      "ServerPassword": "",
+      "UseSSL": true,
+      "Channel": "#debug"
+    }
+  ]
+}
