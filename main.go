@@ -7,9 +7,9 @@ import (
 	"sort"
 	"strings"
 	"time"
-	"tox_party/broadcast"
-	"tox_party/irc"
-	"tox_party/tox"
+	"toxparty/broadcast"
+	"toxparty/irc"
+	"toxparty/tox"
 )
 
 type Config struct {

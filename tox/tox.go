@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"time"
-	"tox_party/broadcast"
+	"toxparty/broadcast"
 )
 
 var friends = make(map[uint32]Friend)

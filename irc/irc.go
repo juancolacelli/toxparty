@@ -5,7 +5,7 @@ import (
 	ircLib "github.com/thoj/go-ircevent"
 	"log"
 	"strings"
-	"tox_party/broadcast"
+	"toxparty/broadcast"
 )
 
 type Irc struct {
